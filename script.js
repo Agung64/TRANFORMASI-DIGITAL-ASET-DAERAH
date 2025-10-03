@@ -4,17 +4,17 @@ document.addEventListener('DOMContentLoaded', function() {
     // === DAFTAR GAMBAR ANDA (GANTI NAMA FILE DI SINI) ===
     // Tuliskan semua nama file gambar Anda di dalam array ini.
     const predefinedImages = [
-        "Slide1.png",
-	"Slide2.png",
-	"Slide3.png",
-	"Slide4.png",
-	"Slide5.png",
-	"Slide6.png",
-	"Slide7.png",
-	"Slide8.png",
-	"Slide9.png",
-	"Slide10.png",
-	"Slide11.png",
+        "Slide1.PNG",
+	"Slide2.PNG",
+	"Slide3.PNG",
+	"Slide4.PNG",
+	"Slide5.PNG",
+	"Slide6.PNG",
+	"Slide7.PNG",
+	"Slide8.PNG",
+	"Slide9.PNG",
+	"Slide10.PNG",
+	"Slide11.PNG",
         // Tambahkan nama file lain di sini jika ada
     ];
     // ======================================================
