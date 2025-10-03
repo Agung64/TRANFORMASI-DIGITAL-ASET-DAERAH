@@ -5,18 +5,16 @@ document.addEventListener('DOMContentLoaded', function() {
     // Tuliskan semua nama file gambar Anda di dalam array ini.
     const predefinedImages = [
         "Slide1.png",
-"Slide2.png",
-"Slide3.png",
-"Slide4.png",
-"Slide5.png",
-"Slide6.png",
-"Slide7.png",
-"Slide8.png",
-"Slide9.png",
-"Slide10.png",
-"Slide11.png",
-
-
+	"Slide2.png",
+	"Slide3.png",
+	"Slide4.png",
+	"Slide5.png",
+	"Slide6.png",
+	"Slide7.png",
+	"Slide8.png",
+	"Slide9.png",
+	"Slide10.png",
+	"Slide11.png",
         // Tambahkan nama file lain di sini jika ada
     ];
     // ======================================================
