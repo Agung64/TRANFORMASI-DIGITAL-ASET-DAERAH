@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slideshow Otomatis</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Slideshow Cuma Klik-Klik: Berani Buktiin?</h1>
+    
+    <p class="developer-info">Develop by Ir. R. Agung Eko Pitono, MT</p>
+    <div class="contact-info">
+        <img src="waimage.jpg" alt="Logo WA" class="wa-image">
+        <span>085172481940</span>
+    </div>
+
+    <div id="slideshow-container">
+        <div class="slide">
+            <img id="slideImage" src="" alt="Gambar Slide">
+            <div id="slideNumber" class="slide-number"></div>
+        </div>
+
+        <a id="prevBtn" class="prev">&#10094;</a>
+        <a id="nextBtn" class="next">&#10095;</a>
+    </div>
+
+    <div id="imageModal" class="modal-overlay">
+        <span id="closeBtn" class="close-btn">&times;</span>
+        <img id="modalImage" class="modal-content" src="">
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
